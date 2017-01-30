@@ -1,0 +1,27 @@
+{
+  "name": "earthlingcodeex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[app.js)\u001b[",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Brad Miller",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.2.0",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-nodemon": "^2.2.1",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "wiredep": "^4.0.0"
+  }
+}
